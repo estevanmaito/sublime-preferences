@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoCompleteJS",
+		"AutoFileName",
+		"Babel",
+		"Color Highlighter",
+		"CSS3",
+		"CSScomb",
+		"Emmet",
+		"Handlebars",
+		"Jade",
+		"JavaScript Snippets",
+		"LiveReload",
+		"Markdown Preview",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"PackageResourceViewer",
+		"Sass",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"Terminal",
+		"Theme - Moka",
+		"Theme - Soda SolarizedDark"
+	]
+}

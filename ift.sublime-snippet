@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+if (${1:condicao}) {
+    console.log('${2:Mensagem}');
+} else {
+    console.log('${3:${2}}');
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>ift</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.js</scope>
+</snippet>
